@@ -17,7 +17,7 @@ Sua nova senha deve ter no mínimo **14 caracteres**, incluindo:
 ### 3. Conectar à VPN
 Após a troca da senha, utilize o botão *"Abrir aplicativo de VPN"* para configurar a conexão VPN com a nova senha.
 
-### 4. Bloquear/Desbloquear Tela
+### 4. Bloquear a Tela
 Utilize o botão *"Bloquear a Tela"* para bloquear sua estação de trabalho.
 
 ### 5. Fechar Janela
